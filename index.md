@@ -10,7 +10,6 @@ homepage:
 ---
 
 # Abdulkarim Alabdulkarim 
-## アルアブドルカリム
 
 {% include cv-contact.html %}
 
