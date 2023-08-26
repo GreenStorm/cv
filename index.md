@@ -1,9 +1,6 @@
 ---
 layout: cv
-title: Abdulkarim Alabdulkarim's CV
-email:
-  url: mailto:Abdulkareemx2@gmail.com
-  text: Abdulkareemx2@gmail.com
+title: Abdulkarim Alabdulkarim
 homepage:
   url: https://github.com/GreenStorm
   text: GitHub Profile
