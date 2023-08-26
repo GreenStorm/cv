@@ -15,7 +15,7 @@ homepage:
 
 ## Summary
 
-Abdulkarim is a software engineer based in Kansai, currently working as an **analyst at Deloitte**. He is business fluent in Japanese **(N2)**, native level in Arabic and English. He is passionate about software engineering opportunities that make a **positive social impact**. Experienced in **JavaScript and Python**, he is also open to learning other technology stacks.
+Abdulkarim is a software engineer based in Japan, currently working as an **analyst at Deloitte**. He is business fluent in Japanese **(N2)**, native level in Arabic and English. He is passionate about software engineering opportunities that make a **positive social impact**. Experienced in **JavaScript and Python**, he is also open to learning other technology stacks.
 
 ## Education
 
