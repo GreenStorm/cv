@@ -3,7 +3,9 @@
    License: none (public domain)
 */
 
-html,
+html{
+  background: #888582;
+},
 body,
 div,
 span,
