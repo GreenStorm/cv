@@ -3,9 +3,7 @@
    License: none (public domain)
 */
 
-html{
-  background: #888582;
-},
+html,
 body,
 div,
 span,
@@ -141,6 +139,7 @@ body {
   margin: 0.5in 0.5in 0.5in 0.5in;
   /* margin-top: 1em;
 	margin-left: 1em; */
+  color: #212121;
 }
 
 strong {
