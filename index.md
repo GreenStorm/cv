@@ -74,7 +74,8 @@ __Student, Tokyo Japanese Language Education Center - JASSO__
 
 ## Certifications
 
-- Amazon Web Services (AWS) Certified Cloud Practitioner, `2022`
-- Waseda Micro-MBA, `2021`
-- Japanese-Language Proficiency Test **(JLPT) - N2**, `2019`
-- TOEFL score of 103, `2019`
+- AWS Partner: Generative AI Essentials (Business) `2023`
+- Amazon Web Services (AWS) Certified Cloud Practitioner `2022`
+- Waseda Micro-MBA `2021`
+- Japanese-Language Proficiency Test **(JLPT) - N2** `2019`
+- TOEFL score of 103 `2019`
